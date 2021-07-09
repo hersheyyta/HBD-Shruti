@@ -1479,7 +1479,7 @@ input {
     width: 75%;
     padding: 10px;
     float: left;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 
@@ -1492,7 +1492,7 @@ input {
     color: #555;
     float: left;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
